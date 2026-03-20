@@ -1,0 +1,17 @@
+# Credentials & secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite database (user-generated data)
+neoscrapper.db
+
+# Extraction results (user-generated data)
+results/
+
+# IDE
+.vscode/
+.idea/
